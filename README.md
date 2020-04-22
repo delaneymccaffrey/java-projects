@@ -1,2 +1,2 @@
 # java-projects
-Java projects created during undergraduate computer science courses
+Projects created during undergraduate computer science courses using Java
